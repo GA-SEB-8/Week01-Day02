@@ -20,7 +20,7 @@ Due 09:00am 2nd July 2025.
 
 ## Requirements
 
-Create a html and css file inside `Homework/YOUR-NAME/wendy-byte` directory and don't forget to link these in your HTML.
+Create a html and css file inside `Homework/wendy-byte` directory and don't forget to link these in your HTML.
 
 Once you've linked your css file to the `index.html` file, write the HTML and CSS
 necessary to make your website look exactly like the following mock:
