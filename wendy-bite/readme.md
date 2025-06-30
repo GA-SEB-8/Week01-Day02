@@ -16,8 +16,7 @@ wants her website to look, and provided the text. Make her site!
 1. Create a portfolio page for your client 'Wendy Byte' You have been provided reference images. Try to make it as close to the image as possible.
 2. You will need at least 1 HTML file, and 1 CSS file
 
-Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 9:00am.
+Due 09:00am 2nd July 2025.
 
 ## Requirements
 
